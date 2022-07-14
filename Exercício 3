@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-bt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste com imagens</title>
+    
+</head>
+<body>
+    <h1>Teste com imagens</h1>
+    <hr>
+    <p>Testando as imagens que fizemos &#x1F5A5; &#x1F468;</p> 
+    <img src="dog200.jpeg" alt="Doguinho"> 
+    <p>Também há como carregar imagens que estão em subpastas</p>
+    <img src="imagens/catolica da paraiba 400.png" alt="Logo catolica da paraíba">
+    <p>Também há como carregar imagens externas</p>
+    <img src="https://logodownload.org/wp-content/uploads/2017/08/pokemon-logo-0-1536x1536.png" alt="Imagem Pokémon externa">
+</body>
+</html>
